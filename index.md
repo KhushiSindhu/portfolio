@@ -8,7 +8,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/KhushiSindhu/fraud_detection)
 
-<center><img src="images/fraudDetection.jpg"/></center>
+<center><img src="assets/img/fraudDetection.jpg"/></center>
 
 ## Lending Club Case study
 
@@ -16,4 +16,4 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 > If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such > applicants using EDA is the aim of this case study!
 
 
-<center><img src="images/loanlending.jpg"/></center>
+<center><img src="assets/img/loanlending.jpg"/></center>
